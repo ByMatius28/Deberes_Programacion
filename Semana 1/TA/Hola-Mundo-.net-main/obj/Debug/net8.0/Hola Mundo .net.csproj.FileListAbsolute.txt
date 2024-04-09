@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Hola Mundo .net\bin\Debug\net8.0\Hola Mundo .net.exe
+C:\Users\USUARIO\Hola Mundo .net\bin\Debug\net8.0\Hola Mundo .net.deps.json
+C:\Users\USUARIO\Hola Mundo .net\bin\Debug\net8.0\Hola Mundo .net.runtimeconfig.json
+C:\Users\USUARIO\Hola Mundo .net\bin\Debug\net8.0\Hola Mundo .net.dll
+C:\Users\USUARIO\Hola Mundo .net\bin\Debug\net8.0\Hola Mundo .net.pdb
+C:\Users\USUARIO\Hola Mundo .net\obj\Debug\net8.0\Hola Mundo .net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Hola Mundo .net\obj\Debug\net8.0\Hola Mundo .net.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Hola Mundo .net\obj\Debug\net8.0\Hola Mundo .net.AssemblyInfo.cs
+C:\Users\USUARIO\Hola Mundo .net\obj\Debug\net8.0\Hola Mundo .net.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Hola Mundo .net\obj\Debug\net8.0\Hola Mundo .net.dll
+C:\Users\USUARIO\Hola Mundo .net\obj\Debug\net8.0\refint\Hola Mundo .net.dll
+C:\Users\USUARIO\Hola Mundo .net\obj\Debug\net8.0\Hola Mundo .net.pdb
+C:\Users\USUARIO\Hola Mundo .net\obj\Debug\net8.0\Hola Mundo .net.genruntimeconfig.cache
+C:\Users\USUARIO\Hola Mundo .net\obj\Debug\net8.0\ref\Hola Mundo .net.dll
