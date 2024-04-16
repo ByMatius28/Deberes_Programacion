@@ -19,3 +19,5 @@ Este código TypeScript proporciona dos funciones para convertir los colores de 
 ### Conclusión:
 
 Estas funciones son útiles para convertir los colores de las bandas de resistencias en valores numéricos de resistencias, facilitando el cálculo y la interpretación de los valores de las resistencias en circuitos electrónicos.
+### Link video:
+https://www.youtube.com/watch?v=OXn_BerfYuU

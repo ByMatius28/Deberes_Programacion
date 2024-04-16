@@ -16,3 +16,6 @@ Este código TypeScript proporciona una función llamada `decodedResistorValue`
 ### Conclusión:
 
 Este código es una implementación de la conversión de colores de resistencias en valores numéricos de resistencias en ohmios, siguiendo las convenciones estándar de codificación de colores en resistencias.
+
+### Link video:
+https://www.youtube.com/watch?v=OXn_BerfYuU
