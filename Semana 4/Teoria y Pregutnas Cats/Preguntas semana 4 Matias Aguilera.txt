@@ -1,0 +1,31 @@
+preguntas de opción múltiple sobre la teoría de la Arquitectura de Prisma.io:
+
+¿Cuál es el propósito principal de Prisma Client en la arquitectura de Prisma.io?
+A) Definir el modelo de datos de la aplicación
+B) Proporcionar una interfaz de programación de aplicaciones (API) para interactuar con la base de datos
+C) Gestionar los cambios en el esquema de la base de datos
+D) Permitir explorar y administrar los datos de la base de datos de forma gráfica
+
+Respuesta correcta: B) 
+
+
+¿Qué componente de Prisma.io se utiliza para definir el modelo de datos de la aplicación y la configuración de la base de datos?
+A) Prisma Client
+B) Prisma Schema
+C) Prisma Migrate
+D) Prisma Studio
+
+Respuesta correcta: B) 
+
+
+¿Cómo se compara la arquitectura de Prisma.io con una fábrica moderna según la analogía presentada?
+A) Prisma Client es el plano de la fábrica
+B) Prisma Migrate es el equipo de ingenieros de la fábrica
+C) Prisma Schema es la sala de control de la fábrica
+D) Prisma Studio es el personal de la fábrica que interactúa con las máquinas
+
+Respuesta correcta: B) 
+
+Link Youtube:
+https://youtu.be/Z-ivBBAcRzk
+minuto: 02:37
