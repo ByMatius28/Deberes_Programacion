@@ -15,4 +15,6 @@ export class Matrix {
 
    * Crea una nueva instancia de Matrix a partir de una representación de texto.
    * @param text - La representación de texto de la matriz con filas separadas por salto de línea y números separados por espacios.
-   
+### Link Youtube:
+https://youtu.be/-Oaf3c1FBa8
+minuto 01:27

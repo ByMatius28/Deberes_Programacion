@@ -9,3 +9,6 @@ La función `hey` toma un mensaje como entrada y devuelve una respuesta basada e
 La función `hey` utiliza estas funciones para determinar la respuesta adecuada al mensaje dado. Devuelve diferentes respuestas dependiendo de si el mensaje es aburrido, agresivo, una pregunta o ninguno de los anteriores.
 
 En resumen, la función `hey` es una función de control de flujo que proporciona respuestas diferentes según el contenido del mensaje. Las funciones auxiliares `hearsBoring`, `hearsFreaky` y `hearsInquisitive` ayudan a determinar el tipo de mensaje que se está recibiendo.
+
+### Link Youtube:
+https://youtu.be/-Oaf3c1FBa8
