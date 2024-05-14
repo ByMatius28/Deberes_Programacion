@@ -1,0 +1,11 @@
+{
+    "type": "postgres",
+    "host": "roundhouse.proxy.rlwy.net",
+    "port": 10503,
+    "username": "postgres",
+    "password": "XjdfprXNmTleBFJXElafhMkTRyOoWDpM",
+    "database": "railway",
+    "synchronize": true,
+    "logging": false,
+    "entities": ["dist/**/*.entity.js"]
+  }
