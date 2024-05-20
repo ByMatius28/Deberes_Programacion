@@ -1,0 +1,17 @@
+<!-- child.component.html -->
+<div style="padding: 20px; box-shadow: 2px 10px 30px #888888; ">
+  <nz-card nzTitle="Jefe Pablo🧐:" >
+    <img src="https://i.pinimg.com/736x/2e/d2/88/2ed288c2d3a506e347b9f61610933a44.jpg" width="100" height="200" alt="Jefe">
+    <div class="borderVariables">
+      <div>Variables del Hijo:</div>
+      <div>parentMessageInput</div>
+      <div>parentMessageViewChild</div>
+      <div>childMessageEventOutput</div>
+    </div>
+      <div class="border">Padre usando &#64;Input: <h3>{{ parentMessageInput }}</h3></div>
+      <div class="border">Padre usando &#64;ViewChild: <h3>{{ parentMessageViewChild }}</h3></div>
+
+    <ng-content></ng-content>
+  </nz-card>
+  <button nz-button nzType="primary" (click)="sendMessage()">Enviar Mensaje al Padre</button>
+</div>

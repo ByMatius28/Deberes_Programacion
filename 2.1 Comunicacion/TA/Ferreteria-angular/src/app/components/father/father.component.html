@@ -1,0 +1,16 @@
+<!-- father.component.html -->
+<div style="padding: 20px;">
+  <nz-card nzTitle="Empleado Manolo😸:">
+    <img src="https://images.vexels.me/media/users/3/127494/isolated/preview/ab8d7f5047b1673c44f91fae53039bc6-construction-worker-cartoon.png" width="150" height="200" alt="Empleado">
+    <div class="borderVariables">
+      <div>Variable del Padre:</div>
+      <div>parentMessageInput</div>
+      <div>childMessageEventOutput</div>
+    </div>
+    <div class="border">Hijo usando &#64;Output: <h3>{{ childMessageEventOutput }}</h3></div>
+    <app-child [parentMessageInput]="parentMessageInput" (childMessageEventOutput)="receiveMessage($event)">
+      <div class="border">Padre usando &#64;ContentChild: <h3>Te voy a enviar 60 sacos de arena para que los entregues</h3></div>
+    </app-child>
+
+  </nz-card>
+</div>
