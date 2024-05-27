@@ -1,0 +1,33 @@
+1)¿Cuál es el objetivo principal de la automatización de despliegues?
+
+a) El objetivo principal de la automatización de despliegues es automatizar la implementación de software y cambios en entornos de desarrollo o producción. Esto se logra mediante pipelines de despliegue que automatizan tareas como la compilación, pruebas, empaquetado y despliegue de aplicaciones.
+
+b)La automatización de despliegues se utiliza para crear componentes de automóviles en una cadena de montaje.
+
+c)La automatización de despliegues es solo relevante en entornos de desarrollo tradicionales.
+
+ANSWER:a)
+
+2)¿Por qué es crucial la automatización de despliegues en entornos ágiles y DevOps?
+
+a)La automatización de despliegues no es importante en entornos ágiles y DevOps.
+
+b)La automatización de despliegues solo se aplica en entornos de producción.
+
+c)La automatización de despliegues permite a los equipos implementar cambios de forma rápida y eficiente, reduciendo errores y mejorando la calidad del software.
+
+ANSWER: c)
+
+¿Qué analogía se utiliza para explicar la automatización de despliegues?
+
+a)Se utiliza la analogía de una granja para explicar la automatización de despliegues.
+
+b)Se utiliza la analogía de una cadena de montaje en una fábrica de automóviles, donde los componentes se ensamblan de forma automatizada y secuencial, al igual que en la automatización de despliegues.
+
+c)La automatización de despliegues no se puede comparar con ninguna otra analogía.
+
+ANSWER: b)
+
+Link YouTube:
+https://youtu.be/JGMU7PTnS_I
+Minuto 01:38

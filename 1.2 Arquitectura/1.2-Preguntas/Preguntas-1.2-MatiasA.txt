@@ -1,0 +1,25 @@
+¿Cuál es el propósito principal de los controladores en NestJS?
+a) Definir rutas y manejar solicitudes
+b) Gestionar la base de datos
+c) Crear interfaces de usuario
+d) Controlar la lógica de negocio
+ANSWER: A
+Justificación: Los controladores en NestJS son responsables de manejar las solicitudes entrantes y definir las rutas para la aplicación. Se encargan de preparar las respuestas que proporciona la aplicación, lo que implica controlar la lógica de negocio asociada con las interacciones con el cliente.
+
+
+¿Qué decorador se utiliza para marcar una clase como disponible para ser inyectada como dependencia en un controlador de NestJS?
+a) @Injectable
+b) @Controller
+c) @Get
+d) @Module
+ANSWER: A
+Justificación: Según la información proporcionada, el decorador utilizado para marcar una clase como disponible para ser inyectada como dependencia en un controlador de NestJS es @Injectable
+
+
+¿Qué papel desempeñan los servicios en relación con los controladores en NestJS?
+a) Abstraer la complejidad y lógica del negocio a una clase aparte
+b) Definir rutas y manejar solicitudes
+c) Validar las solicitudes entrantes
+d) Crear instancias de la aplicación
+ANSWER: A
+Justificación: Los servicios en NestJS se encargan de abstraer la complejidad y lógica del negocio a una clase aparte, lo que permite reutilizar la lógica y separar las responsabilidades de la aplicación, facilitando un enfoque modular y organizado.

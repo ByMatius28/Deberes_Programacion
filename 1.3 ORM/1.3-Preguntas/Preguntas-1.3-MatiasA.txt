@@ -1,0 +1,31 @@
+¿Cuál es el propósito principal de un servicio en NestJS?
+
+A) Manejar las solicitudes HTTP
+B) Proporcionar funcionalidades reutilizables y encapsular la lógica de negocio
+C) Controlar la estructura de la base de datos
+D) Interactuar con el sistema operativo del servidor
+Respuesta correcta: B 
+Proporcionar funcionalidades reutilizables y encapsular la lógica de negocio. Los servicios en NestJS están diseñados para contener la lógica de negocio y proporcionar funcionalidades reutilizables en la aplicación.
+
+¿Cuál es uno de los principios de diseño que siguen los servicios en NestJS?
+
+A) Principio de encapsulación
+B) Principio de inyección de dependencias
+C) Principio de polimorfismo
+D) Principio de herencia
+Respuesta correcta: B
+Principio de inyección de dependencias. Los servicios en NestJS utilizan la inyección de dependencias para permitir la flexibilidad en la implementación y facilitar la prueba unitaria.
+
+¿Qué decorador se utiliza para marcar una clase como un servicio en NestJS?
+
+A) @Service()
+B) @Component()
+C) @Injectable()
+D) @Provider()
+Respuesta correcta: C 
+@Injectable(). En NestJS, las clases que actúan como servicios deben estar decoradas con el decorador @Injectable() para que puedan ser inyectadas en otros componentes de la aplicación.
+
+Link Youtube:
+https://youtu.be/ztkBPSGZ_uQ
+
+Minuto 1,52 preguntas

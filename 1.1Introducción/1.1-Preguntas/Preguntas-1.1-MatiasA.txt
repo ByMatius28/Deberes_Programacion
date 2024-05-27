@@ -1,0 +1,21 @@
+Nombres: 
+Daniela Muñoz Matias Aguilera
+
+Preguntas Reflexivas:
+1. ¿Qué se necesita tener instalado en el sistema antes de crear un nuevo proyecto NestJS? 
+A) Angular 
+B) Node.js 
+C) Python
+ANSWER: B
+
+2. ¿Qué comando se utiliza para instalar el CLI de NestJS de forma global? 
+A) npm install -g @nestjs/cli 
+B) npm i @nestjs/cli 
+C) nest install -g @nestjs/cli
+ANSWER: A
+
+3. ¿Qué se debe configurar en el archivo main.ts de un proyecto NestJS? 
+A) Opciones del servidor 
+B) Configuración de la base de datos 
+C) Estilos de la aplicación
+ANSWER: A

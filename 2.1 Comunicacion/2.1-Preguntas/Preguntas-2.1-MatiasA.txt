@@ -1,0 +1,24 @@
+1. ¿Qué permite la reflexión en el contexto de la teoría de la herencia y la comunicación entre componentes en sistemas de software?
+   - Permite a los componentes predecir el comportamiento de otros componentes.
+   - Permite a los componentes heredar propiedades estáticas.
+   - Permite a los componentes adaptarse dinámicamente a diferentes situaciones.
+
+- Respuesta correcta: Permite a los componentes adaptarse dinámicamente a diferentes situaciones.
+
+2. ¿Qué analogía se utiliza en el texto para entender la herencia y la comunicación entre componentes en sistemas de software?
+   - La analogía de una familia.
+   - La analogía de un sistema solar.
+   - La analogía de un enjambre de abejas.
+
+Respuesta correcta: La analogía de una familia.
+
+3. ¿En qué se basa la teoría de la herencia y la comunicación entre componentes en sistemas de software?
+   - Se basa en la programación procedural y la creación de código desde cero en cada proyecto.
+   - Se basa en los principios de la programación orientada a objetos y la reutilización de código.
+   - Se basa en la arquitectura de software monolítica y la falta de interacción entre componentes.
+
+Respuesta correcta: Se basa en los principios de la programación orientada a objetos y la reutilización de código.
+
+Link YouTube: 
+https://youtu.be/_zroOkP7tEU
+Minuto: 01:47
