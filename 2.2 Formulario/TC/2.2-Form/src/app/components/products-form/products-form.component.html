@@ -1,0 +1,30 @@
+<h1>Products</h1>
+
+<form>
+  <div>
+    <label for="productName">NameProduct:</label>
+    <input type="text" id="productName" name="productName" placeholder="Nombre del producto" required>
+  </div>
+  <div>
+    <label for="productDescription">DescriptionProduct:</label>
+    <textarea id="productDescription" name="productDescription" placeholder="Descripción del producto" required></textarea>
+  </div>
+  <div>
+    <label for="productCategory">CategoryProduct:</label>
+    <input type="text" id="productCategory" name="productCategory" placeholder="Categoría del producto" required>
+  </div>
+  <div>
+    <label for="productBrand">BrandProduct:</label>
+    <input type="text" id="productBrand" name="productBrand" placeholder="Marca del producto" required>
+  </div>
+  <div>
+    <label for="productPrice">PriceProduct:</label>
+    <input type="number" id="productPrice" name="productPrice" placeholder="Precio del producto" min="0" max="1000" step="10" required>
+  </div>
+  <div>
+    <label for="productStock">StockProduct:</label>
+    <input type="number" id="productStock" name="productStock" placeholder="Cantidad en stock" min="0" max="1000" step="1" required>
+  </div>
+  <button type="submit">Submit</button>
+</form>
+
