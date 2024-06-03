@@ -1,0 +1,34 @@
+
+¿Cuál es una de las ventajas principales de reutilizar componentes en el desarrollo de software?
+
+a) Aumenta la duplicación de código en la aplicación.
+
+b) Facilita el mantenimiento del código, ya que cualquier cambio en el componente se refleja en todas las partes de la aplicación donde se utiliza.
+
+c) Reduce la consistencia de la interfaz de usuario.
+
+Respuesta correcta: b
+
+¿Qué aspecto de la reutilización de componentes fomenta una mentalidad de diseño más modular y escalable?
+
+a) Permite crear componentes específicos que no pueden ser reutilizados en otras partes de la aplicación.
+
+b) Obliga a los desarrolladores a pensar en la abstracción y en cómo las diferentes partes de una aplicación pueden funcionar juntas de manera coherente.
+
+c) Aumenta el tiempo y esfuerzo necesarios para el desarrollo.
+
+Respuesta correcta: b
+
+¿Qué analogía se utiliza en el texto para explicar la reutilización de componentes en el desarrollo de software?
+
+a) Comparar la reutilización de componentes con el uso de diferentes ingredientes en una receta.
+
+b) Comparar la reutilización de componentes con diseñar planos de casas que se puedan ajustar y reutilizar según las necesidades.
+
+c) Comparar la reutilización de componentes con la construcción de un puente único para cada río.
+
+Respuesta correcta: b
+
+Link YouTube:
+https://youtu.be/9F4_o_hIsT4
+Minuto: 2:42
