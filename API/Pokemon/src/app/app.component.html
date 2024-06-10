@@ -6,29 +6,32 @@
     [(nzCollapsed)]="isCollapsed"
     [nzTrigger]="null">
     <div class="sidebar-logo">
-      <a href="https://ng.ant.design/" target="_blank">
-        <img src="https://ng.ant.design/assets/img/logo.svg" alt="logo">
-        <h1>Pokemon</h1>
+      <a href="https://www.pokemon.com/es/pokedex" target="_blank">
+        <img src="https://cdn.icon-icons.com/icons2/851/PNG/512/Pokedex_tool_icon-icons.com_67529.png" alt="logo">
+        <h1>PokeDex</h1>
       </a>
     </div>
     <ul nz-menu nzTheme="dark" nzMode="inline" [nzInlineCollapsed]="isCollapsed">
       <li nz-submenu nzOpen nzTitle="Dashboard" nzIcon="dashboard">
         <ul>
           <li nz-menu-item nzMatchRouter>
-            <a routerLink="/welcome">Welcome</a>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/512px-Pok%C3%A9_Ball_icon.svg.png" width="20" height="20" alt="logo">
+            <a routerLink="/welcome">Pokeballs</a>
           </li>
           <li nz-menu-item nzMatchRouter>
-            <a>Monitor</a>
+            <img src="https://images.wikidexcdn.net/mwuploads/wikidex/f/fd/latest/20230115173615/Poci%C3%B3n_EP.png" width="20" height="20" alt="logo">
+            <a>Pociones</a>
           </li>
           <li nz-menu-item nzMatchRouter>
-            <a>Workplace</a>
+            <img src="https://w7.pngwing.com/pngs/949/278/png-transparent-iris-kanto-rainbow-pokemon-sun-and-moon-medallas-medal-symmetry-pokemon.png" width="20" height="20" alt="logo">
+            <a>Medallas</a>
           </li>
         </ul>
       </li>
-      <li nz-submenu nzOpen nzTitle="Form" nzIcon="form">
+      <li nz-submenu nzOpen nzTitle="Gimnacios" nzIcon="form">
         <ul>
           <li nz-menu-item nzMatchRouter>
-            <a>Basic Form</a>
+            <a>Tierra</a>
           </li>
         </ul>
       </li>
