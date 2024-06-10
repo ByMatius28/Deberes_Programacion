@@ -1,0 +1,21 @@
+<h2>Search for a Pokémon</h2>
+
+<input nz-input type="text" placeholder="Enter Pokémon name or ID" [(ngModel)]="searchTerm" (keyup.enter)="searchPokemon()">
+<button nz-button nzType="primary" (click)="searchPokemon()">Search</button>
+
+<div *ngIf="pokemon">
+  <nz-card style="width:300px; margin-top:16px;">
+    <nz-card-meta
+      [nzTitle]="pokemon.name | titlecase"
+      [nzDescription]="'ID: ' + pokemon.id">
+    </nz-card-meta>
+    <img nz-card-img [src]="pokemon.sprites.front_default" [alt]="pokemon.name">
+    <p>Height: {{ pokemon.height }}</p>
+    <p>Weight: {{ pokemon.weight }}</p>
+    <p>Base Experience: {{ pokemon.base_experience }}</p>
+    <p>Types: <span *ngFor="let type of pokemon.types">{{ type.type.name }}</span></p>
+  </nz-card>
+</div>
+<div *ngIf="!pokemon && searchTerm.trim() !== ''">
+  <p>No Pokémon found. Please try another search.</p>
+</div>
